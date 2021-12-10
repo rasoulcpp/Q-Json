@@ -128,6 +128,32 @@
           ]
         }
       ]
+    },
+    {
+      "urls": ["https://twitter.com/"],
+      "users": [
+        {
+          "id": 1,
+          "bg": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_UX32_CR0,0,32,44_AL_.jpg",
+          "userName": "NFL",
+          "userId": "NFL",
+          "userDescription": "MyCauseMyCleats",
+          "followersCount": "5k",
+          "totalPoints": 5555
+        }
+      ],
+      "challenges": [
+        {
+          "type": "Art",
+          "qoints": 230,
+          "workTime": "3 min",
+          "spotsLeft": 75,
+          "spotsCount": 83,
+          "circles": [
+            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+          ]
+        }
+      ]
     }
   ]
 }
