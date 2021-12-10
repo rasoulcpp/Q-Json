@@ -89,6 +89,39 @@
           ]
         }
       ]
+    },
+    {
+      "urls": ["https://www.imdb.com/"],
+      "users": [
+        {
+          "id": 1,
+          "bg": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_UX32_CR0,0,32,44_AL_.jpg",
+          "userName": "Oscar Isaac",
+          "userId": "nm1209966",
+          "followersCount": "5M",
+          "totalPoints": 54321
+        },
+        {
+          "id": 2,
+          "bg": "https://m.media-amazon.com/images/M/MV5BOWU1Nzg0M2ItYjEzMi00ODliLThkODAtNGEyYzRkZTBmMmEzXkEyXkFqcGdeQXVyNDk2Mzk2NDg@._V1_UY44_CR0,0,32,44_AL_.jpg",
+          "userName": "Timothée Chalamet",
+          "userId": "nm3154303",
+          "followersCount": "27K",
+          "totalPoints": 1350
+        }
+      ],
+      "challenges": [
+        {
+          "type": "Math",
+          "qoints": 230,
+          "workTime": "7 min",
+          "spotsLeft": 75,
+          "spotsCount": 83,
+          "circles": [
+            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+          ]
+        }
+      ]
     }
   ]
 }
