@@ -8,6 +8,7 @@
           "bg": "/assets/images/instagram_icon.png",
           "userName": "Abbas",
           "userId": "abbas",
+          "userDescription": "abbas",
           "followersCount": "5",
           "totalPoints": 100
         },
@@ -16,6 +17,7 @@
           "bg": "/assets/images/instagram_icon.png",
           "userName": "Rasoul",
           "userId": "rasoulcpp",
+          "userDescription": "rasoulcpp",
           "followersCount": "2K",
           "totalPoints": 1250
         }
@@ -53,6 +55,7 @@
           "bg": "https://yt3.ggpht.com/ytc/AKedOLSLrbgiwuHkiq9CtD21xlxlbDpTdZ-Dby1a24-Mgg=s176-c-k-c0x00ffffff-no-rj",
           "userName": "Tom Scott",
           "userId": "TomScottGo",
+          "userDescription": "TomScottGo",
           "followersCount": "5M",
           "totalPoints": 54321
         },
@@ -61,6 +64,7 @@
           "bg": "https://yt3.ggpht.com/ytc/AKedOLTttub_xgwFHuIbf_a7aeN_vATG8J-5NmJOnol1bQ=s176-c-k-c0x00ffffff-no-rj",
           "userName": "Bplus Podcast",
           "userId": "BplusPodcast",
+          "userDescription": "BplusPodcast",
           "followersCount": "27K",
           "totalPoints": 1350
         }
@@ -98,6 +102,7 @@
           "bg": "https://m.media-amazon.com/images/M/MV5BMTQ2ODE2NDQ5OF5BMl5BanBnXkFtZTcwOTU3OTM1OQ@@._V1_UX32_CR0,0,32,44_AL_.jpg",
           "userName": "Oscar Isaac",
           "userId": "nm1209966",
+          "userDescription": "cast",
           "followersCount": "5M",
           "totalPoints": 54321
         },
@@ -106,6 +111,7 @@
           "bg": "https://m.media-amazon.com/images/M/MV5BOWU1Nzg0M2ItYjEzMi00ODliLThkODAtNGEyYzRkZTBmMmEzXkEyXkFqcGdeQXVyNDk2Mzk2NDg@._V1_UY44_CR0,0,32,44_AL_.jpg",
           "userName": "Timothée Chalamet",
           "userId": "nm3154303",
+          "userDescription": "cast",
           "followersCount": "27K",
           "totalPoints": 1350
         }
