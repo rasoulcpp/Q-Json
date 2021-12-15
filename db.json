@@ -1,7 +1,17 @@
 {
   "endpoints": [
     {
-      "urls": ["https://www.instagram.com/", "http://www.instagram.com/"],
+      "urls": [
+        "https://www.instagram.com/",
+        "http://www.instagram.com/"
+      ],
+      "default": {
+        "bg": "/assets/images/logos/instagram.png",
+        "userName": "Instagram",
+        "userDescription": "Broadcast Yourself",
+        "followersCount": "123",
+        "totalPoints": 100
+      },
       "users": [
         {
           "id": 1,
@@ -30,9 +40,18 @@
           "spotsLeft": 15,
           "spotsCount": 100,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" },
-            { "title": "facebook", "img": "assets/images/facebook.png" },
-            { "title": "zara", "img": "assets/images/zara.webp" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            },
+            {
+              "title": "facebook",
+              "img": "assets/images/facebook.png"
+            },
+            {
+              "title": "zara",
+              "img": "assets/images/zara.webp"
+            }
           ]
         },
         {
@@ -42,13 +61,26 @@
           "spotsLeft": 75,
           "spotsCount": 83,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            }
           ]
         }
       ]
     },
     {
-      "urls": ["https://www.youtube.com/", "http://www.youtube.com/"],
+      "urls": [
+        "https://www.youtube.com/",
+        "http://www.youtube.com/"
+      ],
+      "default": {
+        "bg": "/assets/images/logos/instagram.png",
+        "userName": "Instagram",
+        "userDescription": "share the world's moment",
+        "followersCount": "123",
+        "totalPoints": 100
+      },
       "users": [
         {
           "id": 1,
@@ -77,9 +109,18 @@
           "spotsLeft": 15,
           "spotsCount": 100,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" },
-            { "title": "facebook", "img": "assets/images/facebook.png" },
-            { "title": "zara", "img": "assets/images/zara.webp" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            },
+            {
+              "title": "facebook",
+              "img": "assets/images/facebook.png"
+            },
+            {
+              "title": "zara",
+              "img": "assets/images/zara.webp"
+            }
           ]
         },
         {
@@ -89,13 +130,25 @@
           "spotsLeft": 75,
           "spotsCount": 83,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            }
           ]
         }
       ]
     },
     {
-      "urls": ["https://www.imdb.com/"],
+      "urls": [
+        "https://www.imdb.com/"
+      ],
+      "default": {
+        "bg": "/assets/images/logos/imdb.jpg",
+        "userName": "Instagram",
+        "userDescription": "source for information on movies",
+        "followersCount": "123",
+        "totalPoints": 100
+      },
       "users": [
         {
           "id": 1,
@@ -124,13 +177,25 @@
           "spotsLeft": 75,
           "spotsCount": 83,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            }
           ]
         }
       ]
     },
     {
-      "urls": ["https://twitter.com/"],
+      "urls": [
+        "https://twitter.com/"
+      ],
+      "default": {
+        "bg": "/assets/images/logos/twitter.jpg",
+        "userName": "Twitter",
+        "userDescription": "What's happening",
+        "followersCount": "123",
+        "totalPoints": 100
+      },
       "users": [
         {
           "id": 1,
@@ -150,7 +215,10 @@
           "spotsLeft": 75,
           "spotsCount": 83,
           "circles": [
-            { "title": "happy-socks", "img": "assets/images/happy-socks.png" }
+            {
+              "title": "happy-socks",
+              "img": "assets/images/happy-socks.png"
+            }
           ]
         }
       ]
