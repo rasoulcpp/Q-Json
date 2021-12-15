@@ -8,7 +8,7 @@
       "default": {
         "bg": "/assets/images/logos/instagram.png",
         "userName": "Instagram",
-        "userDescription": "Broadcast Yourself",
+        "userDescription": "share the world's moment",
         "followersCount": "123",
         "totalPoints": 100
       },
@@ -75,10 +75,10 @@
         "http://www.youtube.com/"
       ],
       "default": {
-        "bg": "/assets/images/logos/instagram.png",
-        "userName": "Instagram",
-        "userDescription": "share the world's moment",
-        "followersCount": "123",
+        "bg": "/assets/images/logos/youtube.png",
+        "userName": "YouTube",
+        "userDescription": "Broadcast Yourself",
+        "followersCount": "1234",
         "totalPoints": 100
       },
       "users": [
